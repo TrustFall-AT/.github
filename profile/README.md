@@ -11,7 +11,7 @@ Therefore, the goal of the project was to design a device that could protect a f
 
 ## Target Audience
 
-The target audience of the proposed application are food bank volunteers, food bank management, and potential clients and donors.
+The target audience of the proposed application are fall risk patients: citizens over the age of 65 or people who have suffered a prior injury.
 
 ## Solution
 
