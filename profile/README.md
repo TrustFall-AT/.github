@@ -5,7 +5,9 @@ An Assistive Technology (AT) project with Sumanth Sura, Shuling Lin, Venkatraman
 The assistive technology project at the Massachusetts Academy of Math and Science is aimed at solving a problem of a specific client in the Massachusetts community to improve their life. In this course students work in groups of typically 3-4 students to create an assistive piece of technology that serves a need in the community. I worked with Venkatraman Varatharajan, Shuling Lin, and Emily Wang to create a device called TrustFall, which aids fall risk patients by detecting when they are falling and inflating an airbag to cushion them. 
 ## Problem
 
-Food pantries often have trouble maintaining their inventories and organizing their food supply to deliver items to clients effectively. Furthermore, with a growing demand in food banks, there is a pressing need for software that can connect food pantries and clients.
+Adults over the age of 65 have a great risk of falling, especially on the hip. Devices exist to prevent a fall, but there are very few devices designed to protect an individual during a fall.
+
+Therefore, the goal of the project was to design a device that could protect a fall-risk patient in the event of a fall. 
 
 ## Target Audience
 
