@@ -13,7 +13,7 @@ The target audience of the proposed application are food bank volunteers, food b
 
 ## Solution
 
-We built a cross-platform cloud-based application that improves the organization of food pantries and communication between clients and food banks.
+We constructed a belt-like device with an airbag on each end and tubing connecting the system to an Arduino, which detects falls using a machine learning algorithm.
 
 ## MVP
 
